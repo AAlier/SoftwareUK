@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SoftwareUK</string>
+    <string name="error_parsing">Error processing data</string>
+    <string name="error_processing">General error</string>
+    <string name="month">Monthly</string>
+    <string name="week">Weekly</string>
+</resources>
